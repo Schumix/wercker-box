@@ -1,5 +1,5 @@
 name : windows-vs2012
-version : 0.0.3
+version : 0.0.1
 description: Experimental Windows box with VS 2012
 type : main
 platform : windows@2008
